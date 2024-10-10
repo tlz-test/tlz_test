@@ -27,11 +27,12 @@ header h1 {
 ul {
     list-style-type: none;
     font-size: 20px;
+    font-weight: bold;
     padding: 1px 0px 1px 0px;
     width: 90%;
     margin: auto;
     overflow: hidden;
-    background-color: #e4fdeb;
+    background-color: #98D7C2;
   }
   
   li {
@@ -47,7 +48,7 @@ ul {
   }
   
   li a:hover:not(.active) {
-    background-color: #98D7C2;
+    background-color: #DDFFE7;
   }
   
   .active {
@@ -80,7 +81,7 @@ footer {
     font-size: 16px;
     text-align: center;
     padding: 10px;
-    background-color: #e9f1f1;
+    background-color: #98D7C2;
     margin: 0px;
     margin-top: 80px;
     }
